@@ -1,3 +1,4 @@
+// A. In Search of an Easy Problem
 var n = readline();
 var line = readline().split(' ').map(Number);
  
